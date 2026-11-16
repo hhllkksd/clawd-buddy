@@ -1,0 +1,6 @@
+{
+  "name": "clawd-buddy",
+  "version": "0.1.0",
+  "description": "A pixel Clawd crab that walks its beach above the chat box while Claude works, in another hat each turn; it hops when the turn is done and likes being petted",
+  "types": "./types/index.d.ts"
+}

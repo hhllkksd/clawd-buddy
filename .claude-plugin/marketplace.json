@@ -1,0 +1,11 @@
+{
+  "name": "clawd-buddy-share",
+  "owner": { "name": "hhllkksd" },
+  "plugins": [
+    {
+      "name": "clawd-buddy",
+      "source": "./",
+      "description": "A pixel Clawd crab that walks its beach above the chat box while Claude works, in another hat each turn; it hops when the turn is done and likes being petted"
+    }
+  ]
+}
